@@ -217,6 +217,9 @@
     <tag>HEAD</tag>
     <url>http://github.com/jleetutorial/maven-project</url>
   </scm>
+          <build>
+    <finalName>dockeransibles</finalName>
+  </build>
 
   <prerequisites>
     <maven>3.0.3</maven>
